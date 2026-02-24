@@ -14,9 +14,7 @@
 </p>
 
 ## 🚀 About Me 
-work as a Data Analyst with 4 years of experience, passionate about helping organizations unlock insights hidden in their data. I enjoy turning complex, unstructured information into clear, actionable stories that drive results.
-
-My work revolves around creating intuitive dashboards that people actually use, streamlining repetitive tasks to save time, and building predictive models that guide business decisions and future planning.
+I'm a Data Analyst with 4 years of experience, driven by a passion turning complex data into meaningful insights that help businesses make smarter decisions. I thrive on taking messy datasets and uncovering patterns that tell a clear, actionable story. My work revolves around creating intuitive dashboards that people actually use, streamlining repetitive tasks to save time, and building predictive models that guide business decisions and future planning.
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
