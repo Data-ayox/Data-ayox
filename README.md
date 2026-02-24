@@ -28,8 +28,8 @@ My work revolves around creating intuitive dashboards that people actually use, 
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [Advanced machine learning techniques using Scikit-learn and XGBoost for predictive modeling and classification tasks.]
+- [Cloud data warehousing and analytics with Google BigQuery and Snowflake to handle large-scale datasets efficiently.]
 
 ## 🛠️ Technical Skillset
 
