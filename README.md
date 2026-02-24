@@ -44,7 +44,7 @@ I'm a Data Analyst with 4 years of experience, driven by a passion turning compl
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
