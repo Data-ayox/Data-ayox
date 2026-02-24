@@ -1,4 +1,4 @@
-## Hi there, I'm [Data-ayox ] 👋
+## Hi there, I'm [Data-Ayox ] 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
