@@ -14,20 +14,17 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+work as a Data Analyst with 4 years of experience, passionate about helping organizations unlock insights hidden in their data. I enjoy turning complex, unstructured information into clear, actionable stories that drive results.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
-
+My work revolves around creating intuitive dashboards that people actually use, streamlining repetitive tasks to save time, and building predictive models that guide business decisions and future planning.
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Performing exploratory data analysis (EDA) on business performance datasets to identify trends, correlations, and actionable insights for growth opportunities.
+- **Project B:** [Designing and deploying interactive dashboards using tools like Tableau and Power BI, creating automated reports, and implementing KPI tracking to monitor real-time performance.]
+- **Content Creation:** Building and validating predictive models using regression, classification, and time-series forecasting techniques to support strategic planning and data-driven decision-making.
 
 ## 🌱 Currently Learning 
 
