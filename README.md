@@ -19,8 +19,7 @@ I'm committed to continuous learning and expanding my expertise in Python, R, SQ
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+Customer Churn Prediction – Building an end-to-end machine learning solution to predict customer churn through data cleaning, exploratory data analysis, feature engineering, model development, and evaluation.
  
 ## 🌱 Currently Learning 
 
