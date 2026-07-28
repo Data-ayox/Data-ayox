@@ -12,7 +12,9 @@
 
 ## 🚀 About Me 
 I'm a Data Scientist passionate about transforming data into actionable insights. I enjoy solving real-world problems through data analysis, machine learning, predictive analytics, and statistical modelling.
+
 I build end-to-end data science solutions, from data cleaning and exploratory data analysis to developing and evaluating machine learning models that support informed, data-driven decision-making.
+
 I'm committed to continuous learning and expanding my expertise in Python, R, SQL, Power BI, and modern data science tools while building practical projects that create real-world impact.
       
 ## 🔭 What I'm Currently Working On 
