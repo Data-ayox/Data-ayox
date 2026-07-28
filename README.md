@@ -11,26 +11,18 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
-
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+I'm a Data Scientist passionate about transforming data into actionable insights. I enjoy solving real-world problems through data analysis, machine learning, predictive analytics, and statistical modelling.
+I build end-to-end data science solutions, from data cleaning and exploratory data analysis to developing and evaluating machine learning models that support informed, data-driven decision-making.
+I'm committed to continuous learning and expanding my expertise in Python, R, SQL, Power BI, and modern data science tools while building practical projects that create real-world impact.
       
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
-
+ 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
-
+- I'm committed to continuous learning and expanding my expertise in Python, R, SQL, Power BI, and modern data science tools while building practical projects that create real-world impact.
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
