@@ -17,10 +17,6 @@ I build end-to-end data science solutions, from data cleaning and exploratory da
 
 I'm committed to continuous learning and expanding my expertise in Python, R, SQL, Power BI, and modern data science tools while building practical projects that create real-world impact.
       
-## 🔭 What I'm Currently Working On 
-
-Customer Churn Prediction – Building an end-to-end machine learning solution to predict customer churn through data cleaning, exploratory data analysis, feature engineering, model development, and evaluation.
- 
 ## 🌱 Currently Learning 
 
 - I'm committed to continuous learning and expanding my expertise in Python, R, SQL, Power BI, and modern data science tools while building practical projects that create real-world impact.
